@@ -1,0 +1,28 @@
+{
+  "name": "my-todo-app3",
+  "version": "1.0.0",
+  "description": "My deadly new todo app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamcondon/my-todo-app3.git"
+  },
+  "author": "Liam Condon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamcondon/my-todo-app3/issues"
+  },
+  "homepage": "https://github.com/liamcondon/my-todo-app3#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^1.12.4"
+  }
+}
