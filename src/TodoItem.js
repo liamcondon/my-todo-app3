@@ -22,7 +22,7 @@ import React from 'react'
        return <div className="TodoItem">
         <input type="checkbox" id={id}/>    
         <label htmlFor={id}>{labelName}</label>
-       </div>  //{} around id above indicates a Javascript expression
+       </div>  //{} around id and labelName above indicates a Javascript expression
     }
 
     export default TodoItem;
