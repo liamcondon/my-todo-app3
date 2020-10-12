@@ -8,5 +8,3 @@ const TodoItem = ({ id, labelName }) => {
     </div>
   );
 };
-
-export default TodoItem;
