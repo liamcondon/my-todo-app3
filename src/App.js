@@ -10,6 +10,7 @@ const TodoItemsFromOutside = [
   { id: "have-fun", labelName: "Have Fun!" },
   { id: "prettier", labelName: "Prettier is awesome!" },
 ];
+
 const App = () => (
   <div id="my-todo-app" className="my-todo-app">
     <h1>My Todo App</h1>
